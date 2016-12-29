@@ -1,0 +1,1 @@
+# Minimal Markov Text Generator (MMTG)
