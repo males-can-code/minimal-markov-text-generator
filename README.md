@@ -1,6 +1,6 @@
 # Minimal Markov Text Generator (MMTG)
 
-Object Oriented approach to a markdown text generator, just for fun.
+Object Oriented approach to a markov text generator, just for fun.
 
 
 ## TODO
