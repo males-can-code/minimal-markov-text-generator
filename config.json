@@ -1,0 +1,18 @@
+// config file for text parsing
+
+{
+	"delimiters": [ //divide statements
+		"(",
+		")",
+		",",
+		",",
+		":",
+		"'",
+		";"
+	],
+
+	"unwanted_chars": [ //deleted before parsing
+		"\n",
+		"-"
+	]
+}
